@@ -1,2 +1,2 @@
 # Network-Intrusion-Detection-Using-KNeighborsClassifier
-Network intrusion detection unsing hybrid sampling and KNeighborsClassifier
+Network intrusion detection using hybrid sampling and KNeighborsClassifier
